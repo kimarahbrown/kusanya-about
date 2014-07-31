@@ -40,7 +40,8 @@ li {
 }
 
 body { 
-     padding-top: 70px; 
+     
+     background-image:url('https://cloud.githubusercontent.com/assets/5033761/3769411/edc52c28-18e0-11e4-80a1-22917f933aca.jpg');padding-top: 70px; 
      position: center;
      background-position:center; 
      background-color:white;
@@ -52,6 +53,3 @@ body {
     height: 50%;
 }
 
-h2 {text-align:left}
-
-h3 {text-align:right}
