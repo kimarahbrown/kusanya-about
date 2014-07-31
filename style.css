@@ -42,6 +42,8 @@ li {
 body { 
      
      background-image:url('https://cloud.githubusercontent.com/assets/5033761/3769411/edc52c28-18e0-11e4-80a1-22917f933aca.jpg');padding-top: 70px; 
+     background-size: cover;
+background-repeat: no-repeat;
      position: center;
      background-position:center; 
      background-color:white;
