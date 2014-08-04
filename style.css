@@ -55,3 +55,9 @@ body {
     height: 100%;
 }
 
+p {
+  color:White;
+  font-size: 30px;
+  text-align:center
+}
+
