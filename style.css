@@ -68,11 +68,11 @@ h1 {
     display: inline-block;
     *display:inline;
     float: none; 
-    background: #666666;
+    background: Black;
 }
 
 .caption {
-    background-color: #666666;
+    background-color: Black;
     opacity: 0.7;
 }
 
