@@ -31,15 +31,6 @@ li {
   color:Black;
 }
 
-.well {
-  padding: 20px;
-  opacity: 0.7; 
-  moz-opacity: 0.7;
-  webkit-opacity: 0.7; 
-  background-color: Black;
-   
-}
-
 body { 
      
      background-image:url('https://cloud.githubusercontent.com/assets/5033761/3814721/c009e072-1cbd-11e4-8839-3e463bb5a3ab.jpg');padding-top: 70px; 
@@ -77,5 +68,5 @@ h1 {
     display: inline-block;
     *display:inline;
     float: none; 
-    color: Black;
+    background: Black;
 }
