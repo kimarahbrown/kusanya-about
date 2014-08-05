@@ -32,12 +32,12 @@ li {
 }
 
 .well {
- -  padding: 20px;
- -  opacity: 0.7; 
- -  -moz-opacity: 0.7;
- -  -webkit-opacity: 0.7; 
- -  background: Black;
- -  
+  padding: 20px;
+  opacity: 0.7; 
+  moz-opacity: 0.7;
+  webkit-opacity: 0.7; 
+  background-color: Black;
+   
 }
 
 body { 
