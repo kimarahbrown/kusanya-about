@@ -75,12 +75,16 @@ h1 {
 
 .thumbnails > li {
     display: inline-block;
-    *display:inline; /* ie7 fix */
-    float: none; /* this is the part that makes it work */
+    *display:inline;
+    float: none; 
+    color: Black;
 }
 
-img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+.well {
+    opacity: 0.7; /* opacity [0-1] */
+    -moz-opacity: 0.7 /* opacity [0-1] */
+    -webkit-opacity: 0.7; /* opacity [0-1] */
+    background-color: Black;
+}
+
 
