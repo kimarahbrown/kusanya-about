@@ -73,7 +73,7 @@ h1 {
     text-align:center;
 }
 
-.thumbnails {
+.thumbnail {
     display: inline-block;
     *display:inline;
     float: none; 
