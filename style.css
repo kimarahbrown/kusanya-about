@@ -69,9 +69,8 @@ h1 {
     *display:inline;
     float: none; 
     background: Black;
+    background: transparent;
+    margin-top: 15px;
 }
 
-.thumbnail {
-  background: transparent;
-  margin-top: 15px;
-}
+
