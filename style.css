@@ -77,5 +77,5 @@ h1 {
     display: inline-block;
     *display:inline;
     float: none; 
-    background: Black;
+    color: Black;
 }
