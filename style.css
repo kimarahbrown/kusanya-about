@@ -70,3 +70,8 @@ h1 {
     float: none; 
     background: Black;
 }
+
+.thumbnail {
+  background: transparent;
+  margin-top: 15px;
+}
