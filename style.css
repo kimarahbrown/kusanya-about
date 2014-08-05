@@ -79,3 +79,8 @@ h1 {
     float: none; /* this is the part that makes it work */
 }
 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
