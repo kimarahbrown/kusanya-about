@@ -31,8 +31,6 @@ li {
   color:Black;
 }
 
-<style>
-
 body { 
      
      background-image:url('https://cloud.githubusercontent.com/assets/5033761/3830656/3ae12d2c-1d8c-11e4-91e4-d0a54f3617db.JPG');padding-top: 70px; 
@@ -42,8 +40,6 @@ body {
      padding-top: 70px;
      text-align:center;
 }
-
-<?style>
 
 p {
   color:White;
