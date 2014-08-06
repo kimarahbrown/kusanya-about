@@ -65,8 +65,6 @@ h1 {
 }
 
 .thumbnail {
-    display: inline-block;
-    *display:inline;
     float: none; 
     background: Black;
 }
