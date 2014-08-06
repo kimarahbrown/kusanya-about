@@ -67,6 +67,7 @@ h1 {
 .thumbnail {
     float: none; 
     background: Black;
+    opacity: 0.1
 }
 
 .caption {
