@@ -64,7 +64,8 @@ h1 {
     text-align:center;
     float: none; 
     background: Black;
-    opacity: 0.6
+    background: rgba(0, 0, 0 ,0.6);
+    
 }
 
 .caption {
@@ -74,9 +75,12 @@ h1 {
 
 .IMG {
     opacity: 1.0;
-    filter: alpha(opacity=40);
     max-height: 150px;
     max-width: 200px;
     width: 50px;
     height: 50px;
+}
+.alpha60 {
+ background: rgba(255, 255, 255, 255.6);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
 }
