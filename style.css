@@ -69,11 +69,6 @@ h1 {
     
 }
 
-
-.image {
-       opacity:0.3;
-   
-}
 .alpha60 {
  background: rgba(255, 255, 255, 255.6);
   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
