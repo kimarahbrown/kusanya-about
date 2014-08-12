@@ -76,10 +76,9 @@ h1 {
 
 <style type="text/css">
  @font-face {
-    font-family: "Futura-CondensedExtraBold";
-    src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
-}
-p.customfont { 
-    font-family: "Futura-CondensedExtraBold", sans-serif;
+font-family: "Futura-CondensedExtraBold", Futura, sans-serif;
+font-stretch: condensed;
+font-weight: bold;
 }
 </style>
+
