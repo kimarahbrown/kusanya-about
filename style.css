@@ -76,9 +76,11 @@ h1 {
 
 <style type="text/css">
  @font-face {
-font-family: "Futura-CondensedExtraBold", Futura, sans-serif;
-font-stretch: condensed;
-font-weight: bold;
+    font-family: "My Custom Font";
+   src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
+}
+p.customfont { 
+    font-family: "My Custom Font", Verdana, Tahoma;
 }
 </style>
-
+<p class="customfont">Hello world!</p>
