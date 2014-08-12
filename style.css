@@ -76,10 +76,10 @@ h1 {
 
 <style type="text/css">
  @font-face {
-    font-family: "My Custom Font";
+    font-family: "Futura-CondensedExtraBold";
     src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
 }
 p.customfont { 
-    font-family: "My Custom Font", Verdana, Tahoma;
+    font-family: "Futura-CondensedExtraBold", sans-serif;
 }
 </style>
