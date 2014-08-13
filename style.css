@@ -84,3 +84,9 @@ p.customfont {
 }
 </style>
 <p class="customfont">Hello world!</p>
+
+.image {
+    width: 5opx;
+    height: auto;
+}
+}
