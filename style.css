@@ -1,0 +1,61 @@
+
+p {
+  font-size: 30px;
+  text-align:center
+  font-color: white;
+}
+
+li {
+  color:Black;
+}
+     
+       p {
+  color:White;
+  font-size: 30px;
+  text-align:center
+}
+
+#container {
+    margin-bottom: 115px;
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+h1 {
+  color: White;
+  }
+
+.thumbnail {
+    text-align:center;
+    float: none; 
+    background: Black;
+    background: rgba(0, 0, 0 ,0.6);
+    padding:10%;
+    
+}
+
+.picture {
+     width: 50%;
+    height: 50%;
+    float: left;
+}
+
+.pic {
+     width: 50%;
+    height: 50%;
+}
+
+.alpha60 {
+ background: rgba(255, 255, 255, 255.6);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+}
+    
+    body {
+        background-image: url('https://cloud.githubusercontent.com/assets/5033761/3895339/1df19ce0-224d-11e4-92f2-7e9aecce88c8.JPG');
+        background-attachment: fixed;
+    }
+    
